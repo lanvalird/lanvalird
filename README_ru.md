@@ -1,27 +1,27 @@
 # aculaOne
 
-_English_ | [Русский](README_ru.md)
+[English](README.md) | _Русский_
 
 ![banner](./assets/img/github_banner.png)
 
-## About Me
+## Обо Мне
 
-Hi! I've been interested in programming since I was 11 years old, at 13 I started learning my first language – PHP, and at the moment I've been doing web development for about three years.
+Привет! Я интересовался программированием с 11 лет, в 13 начал изучать свой первый язык – PHP, а в данный момент занимаюсь веб-разработкой около трёх лет.
 
-For me, programming is not just another hobby, like website design or writing, but one of my favorite activities, more precisely web development, with which I would like to connect my future life.
+Программирование для меня – не просто очередное хобби, как дизайн сайтов или писательства, а одно из моих любимых занятий, точнее веб-разработка, с которой я бы хотел связать свою дальнейшую жизнь.
 
 ![divider](./assets/img/github_divider.png)
 
-## Stats
+## Статы
 
 ![GitHub Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aculaOne&theme=prussian)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aculaOne&theme=prussian&border_radius=5&locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aculaOne&theme=prussian&border_radius=5&locale=ru)](https://git.io/streak-stats)
 
 ![divider](./assets/img/github_divider.png)
 
-## Skills
+## Скилы
 
-### Base ^\_^
+### База ^\_^
 
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
@@ -44,36 +44,36 @@ For me, programming is not just another hobby, like website design or writing, b
 <img src="./assets/img/github_separator.png" alt="separator" width="20px" height="50px">
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="50px" height="50px"></a>
 
-### More languages
+### Ещё языки
 
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
 <img src="./assets/img/github_separator.png" alt="separator" width="20px" height="50px">
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="50px" height="50px"></a>
 
-### Databases
+### Базы данных
 
 <a href="https://www.prisma.io/" title="Prisma"><img src="https://github.com/get-icon/geticon/raw/master/icons/prisma.svg" alt="Prisma" width="50px" height="50px"></a>
 <img src="./assets/img/github_separator.png" alt="separator" width="20px" height="50px">
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
 
-### Working with…
+### Работаю с…
 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
 
-### …and other tools
+### …и другими инструментами
 
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="50px" height="50px"></a>
 <img src="./assets/img/github_separator.png" alt="separator" width="20px" height="50px">
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="50px" height="50px"></a>
 
-### Learning
+### Изучаю
 
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
 <img src="./assets/img/github_separator.png" alt="separator" width="20px" height="50px">
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>
 <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="NestJS" width="50px" height="50px"></a>
 
-### In future
+### В будущем
 
 <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="50px" height="50px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="50px" height="50px"></a>
@@ -82,13 +82,13 @@ For me, programming is not just another hobby, like website design or writing, b
 
 ![divider](./assets/img/github_divider.png)
 
-## My Social
+## Мои Социалки
 
 | Name     | Link                                       |
 | -------- | ------------------------------------------ |
-| Gravatar | [@aculaone](https://gravatar.com/aculaone) |
-| Discord  | @acula_1                                   |
-| VK       | [@acula_1](https://vk.com/acula_1)         |
-| Telegram | [@acula_1](https://t.me/acula_1)           |
+| Граватар | [@aculaone](https://gravatar.com/aculaone) |
+| Дискорд  | @acula_1                                   |
+| ВК       | [@acula_1](https://vk.com/acula_1)         |
+| Телеграм | [@acula_1](https://t.me/acula_1)           |
 
 ![footer](./assets/img/github_footer.png)
