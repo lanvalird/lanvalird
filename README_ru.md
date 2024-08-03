@@ -84,11 +84,8 @@
 
 ## Мои Социалки
 
-| Name     | Link                                       |
-| -------- | ------------------------------------------ |
-| Граватар | [@aculaone](https://gravatar.com/aculaone) |
-| Дискорд  | @acula_1                                   |
-| ВК       | [@acula_1](https://vk.com/acula_1)         |
-| Телеграм | [@acula_1](https://t.me/acula_1)           |
+| Граватар                                   | Дискорд  | ВК                                 | Телеграм                         |
+| ------------------------------------------ | -------- | ---------------------------------- | -------------------------------- |
+| [@aculaone](https://gravatar.com/aculaone) | @acula_1 | [@acula_1](https://vk.com/acula_1) | [@acula_1](https://t.me/acula_1) |
 
 ![footer](./assets/img/github_footer.png)

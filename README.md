@@ -84,11 +84,8 @@ For me, programming is not just another hobby, like website design or writing, b
 
 ## My Social
 
-| Name     | Link                                       |
-| -------- | ------------------------------------------ |
-| Gravatar | [@aculaone](https://gravatar.com/aculaone) |
-| Discord  | @acula_1                                   |
-| VK       | [@acula_1](https://vk.com/acula_1)         |
-| Telegram | [@acula_1](https://t.me/acula_1)           |
+| Gravatar                                   | Discord  | VK                                 | Telegram                         |
+| ------------------------------------------ | -------- | ---------------------------------- | -------------------------------- |
+| [@aculaone](https://gravatar.com/aculaone) | @acula_1 | [@acula_1](https://vk.com/acula_1) | [@acula_1](https://t.me/acula_1) |
 
 ![footer](./assets/img/github_footer.png)
