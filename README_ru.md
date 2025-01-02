@@ -41,6 +41,7 @@ _[English](README.md)_ | Русский
 | <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="25px" height="25px"></a>                                                             | PHP                 | ❌  | Мой первый язык программирования.                                                                         |
 |                                                                                                                                                                                                                      | **Неизученные**     |     |                                                                                                           |
 | <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="Kotlin" width="25px" height="25px"></a>                                             | Kotlin              |     |                                                                                                           |
+| <a href="https://www.rust-lang.org/" title="Rust"><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="25px" height="25px"></a>                                                | Rust                |     |                                                                                                           |
 
 ### Технологии
 
@@ -77,14 +78,14 @@ _[English](README.md)_ | Русский
 | <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="25px" height="25px"></a>                                                 | Redux                  |     |  JS  |
 | <a href="https://nestjs.com/" title="NestJS"><img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="NestJS" width="25px" height="25px"></a>                                                | NestJS                 | 📓  |  JS  |
 | <a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="25px" height="25px"></a>                                                 | Spring                 |     | Java |
-| <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>                            | PostgreSQL             |     |  …   |
-|                                                                                                                                                                                                                     | Axios                  |     |  JS  |
+| <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>                            | PostgreSQL             |     |      |
+| <a href="https://axios-http.com"><img src="https://axios-http.com/assets/logo.svg" alt="Axios" width="25px" height="25px" /></a>                                                                                    | Axios                  |     |  JS  |
 | <a href="https://expo.io/" title="Expo"><img src="https://github.com/get-icon/geticon/raw/master/icons/expo.svg" alt="Expo" width="25px" height="25px"></a>                                                         | Expo                   |     |  JS  |
 
 ## Мои Социалки
 
-| Граватар                                   | Дискорд  | ВК                                 | Телеграм                         |
-| ------------------------------------------ | -------- | ---------------------------------- | -------------------------------- |
-| [@aculaone](https://gravatar.com/aculaone) | @acula_1 | [@acula_1](https://vk.com/acula_1) | [@acula_1](https://t.me/acula_1) |
+| Сайт | Граватар | Дискорд | ВК | Телеграм |
+| ---------------------------- | ------------------------------------------ | -------- | ---------------------------------- | -------------------------------- |
+| https://aculaone.netlify.app  | [@aculaone](https://gravatar.com/aculaone) | @acula_1 | [@acula_1](https://vk.com/acula_1) | [@acula_1](https://t.me/acula_1) |
 
 ![footer](./assets/img/github_footer.png)
