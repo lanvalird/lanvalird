@@ -1,4 +1,4 @@
-# aculaOne
+# Валентин Бёрд _(aka aculaOne)_
 
 _[English](README.md)_ | Русский
 
@@ -12,8 +12,8 @@ _[English](README.md)_ | Русский
 
 ![divider](./assets/img/github_divider.png)
 
-<img alt="GitHub профиль" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aculaOne&theme=prussian" width="100%">
-<img alt="GitHub стрик" src="https://streak-stats.demolab.com?user=aculaOne&theme=prussian&border_radius=5&locale=ru" width="100%">
+<img alt="GitHub профиль" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lanvalird&theme=prussian" width="100%">
+<img alt="GitHub стрик" src="https://streak-stats.demolab.com?user=lanvalird&theme=prussian&border_radius=5&locale=ru" width="100%">
 
 ![divider](./assets/img/github_divider.png)
 
@@ -34,10 +34,10 @@ _[English](README.md)_ | Русский
 ## Мои социалки
 
 [![Персональный сайт](./assets/img/social.png)](https://aculaOne.netlify.app/)
-[![Telegram](./assets/img/social-tg.png)](https://t.me/acula_1/)
-[![Gravatar](./assets/img/social-gr.png)](https://gravatar.com/aculaone/)
-[![Bluesky](./assets/img/social-bsky.png)](https://bsky.app/profile/aculaone.bsky.social)
+[![Telegram](./assets/img/social-tg.png)](https://t.me/lanvalird/)
+[![Gravatar](./assets/img/social-gr.png)](https://gravatar.com/lanvalird/)
+[![Bluesky](./assets/img/social-bsky.png)](https://bsky.app/profile/lanvalird.bsky.social)
 ![Discord](./assets/img/social-ds.png)
-[![VK](./assets/img/social-vk.png)](https://vk.com/acula_1/)
+[![VK](./assets/img/social-vk.png)](https://vk.com/lanvalird/)
 
 ![footer](./assets/img/github_footer.png)
