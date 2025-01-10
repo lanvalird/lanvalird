@@ -33,7 +33,7 @@ Stack – a set of technologies and principles used in the company's products.
 
 ## My socials
 
-[![Personal site](./assets/img/social.png)](https://aculaOne.netlify.app/)
+[![Personal site](./assets/img/social.png)](https://lanvalird.netlify.app/)
 [![Telegram](./assets/img/social-tg.png)](https://t.me/lanvalird/)
 [![Gravatar](./assets/img/social-gr.png)](https://gravatar.com/lanvalird/)
 [![Bluesky](./assets/img/social-bsky.png)](https://bsky.app/profile/lanvalird.bsky.social)

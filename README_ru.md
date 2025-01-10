@@ -33,7 +33,7 @@ _[English](README.md)_ | Русский
 
 ## Мои социалки
 
-[![Персональный сайт](./assets/img/social.png)](https://aculaOne.netlify.app/)
+[![Персональный сайт](./assets/img/social.png)](https://lanvalird.netlify.app/)
 [![Telegram](./assets/img/social-tg.png)](https://t.me/lanvalird/)
 [![Gravatar](./assets/img/social-gr.png)](https://gravatar.com/lanvalird/)
 [![Bluesky](./assets/img/social-bsky.png)](https://bsky.app/profile/lanvalird.bsky.social)
